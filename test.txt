@@ -1,0 +1,12 @@
+Name: 'Katie' 
+ age: '30'
+What is the sign of the product of two positive numbers?
+positive
+What is the sign of the product of two negative numbers?
+positive
+What is the sign of the product of a positive and negative number?
+negative
+What is the product of any number and zero?
+zero
+Did you enjoy this activity?
+yes
