@@ -1,8 +1,7 @@
 import sys
 import itertools
 from sys import argv
-#import pandas as pd
-#import numpy as np
+
 
 script, filename = argv
 
