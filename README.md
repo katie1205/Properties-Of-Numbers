@@ -9,7 +9,10 @@ These scripts contain functions that determine whether real numbers and their su
 - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+is_even.R) `#1589F0` 
 - ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
 - 
-
+```diff
++ evens_and_odds.py: a python file 
+- is_even.R: an R file
+```
 
 
 
