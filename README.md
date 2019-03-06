@@ -5,9 +5,10 @@ This repository contains python and R scripts for functions and interactive less
  ## Evens & Odds
  
 These scripts contain functions that determine whether real numbers and their sums and products are even, odd, or neither (for non-integers):
-- ![#c5f015](https://placehold.it/15/c5f015/000000?text= evens_and_odds.py) `#c5f015, echo=FALSE` :snake:
-- ![#1589F0](https://placehold.it/15/1589F0/000000?text= is_even.R) `#1589F0` 
-- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+ evens_and_odds.py) `#c5f015`
+- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+evens_and_odds.py) `#c5f015, echo=FALSE` :snake:
+- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+is_even.R) `#1589F0` 
+- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
+- 
 
 
 
