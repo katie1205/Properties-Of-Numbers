@@ -5,8 +5,8 @@ This repository contains python and R scripts for functions and interactive less
  ## Evens & Odds
  
 These scripts contain functions that determine whether real numbers and their sums and products are even, odd, or neither (for non-integers):
-+ evens_odds.py: <font: color = "green">:snake: script </font>
-+ is_even.R: <font: color = "blue"> **R** script </font>
++ evens_odds.py: <font color = "green">:snake: script </font>
++ is_even.R: <font color = "blue"> **R** script </font>
 
 ## signs.py :negative_squared_cross_mark: 
  
