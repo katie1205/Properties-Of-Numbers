@@ -5,7 +5,7 @@ This repository contains python and R scripts for functions and interactive less
  ## Evens & Odds
  
 These scripts contain functions that determine whether real numbers and their sums and products are even, odd, or neither (for non-integers):
-+ evens_and_odds.py: a python file
++ evens_odds.py: a python file
 + is_even.R: an R file
 
 
