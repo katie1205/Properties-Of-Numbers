@@ -5,8 +5,8 @@ This repository contains python scripts all about properties of numbers! Please 
  ## Evens & Odds
  
 These scripts contain functions that determine whether real numbers and their sums and products are even, odd, or neither (for non-integers):
-+ evens_odds.py: python :snake: script
-+ is_even.R: R :R: script
++ evens_odds.py: :snake: script
++ is_even.R: :R: script
 
 ## signs.py :negative_squared_cross_mark: 
  
