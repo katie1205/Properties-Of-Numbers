@@ -1,6 +1,6 @@
 # Properties-Of-Numbers :1234:
 
-This repository contains python and R scripts for functions and interactive lessons/activities all about properties of numbers :hash:. Additionally, there are some python scripts for interactive and inductive lessons on basic arithmetic :100::heavy_exclamation_mark: Please note that the python :snake: scripts were completed in *Python 2.7.8* and *require Python 2 to run*.
+This repository contains python and R scripts for functions and interactive lessons/activities all about properties of numbers :hash:. Additionally, there are some python scripts for interactive and inductive lessons on arithmetic and basic statistics:100::heavy_exclamation_mark: Please note that the python :snake: scripts were completed in *Python 2.7.8* and *require Python 2 to run*.
 
  ## Evens & Odds
  
