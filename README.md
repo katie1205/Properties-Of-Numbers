@@ -1,6 +1,6 @@
 # Properties-Of-Numbers :1234: :hash:
 
-This repository contains python scripts all about properties of numbers! Please note that the python scripts were completed in Python 2.7.8 and require Python 2 to run.
+This repository contains python and R scripts for functions and interactive lessons/activities all about properties of numbers! Please note that the python scripts were completed in Python 2.7.8 and require Python 2 to run.
 
  ## Evens & Odds
  
