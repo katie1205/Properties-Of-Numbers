@@ -1,13 +1,14 @@
 # Properties-Of-Numbers :1234: :hash:
 
-This repository contains python and R scripts for functions and interactive lessons/activities all about properties of numbers! Please note that the python scripts were completed in Python 2.7.8 and require Python 2 to run.
+This repository contains python and R scripts for functions and interactive lessons/activities all about properties of numbers. :heavy_multiplication_x: :heavy_plus_sign:. Additionally, there are some python scripts for interactive and inductive lessons on basic arithmetic :100: :heavy_exclamation_mark: Please note that the python :snake: scripts were completed in *Python 2.7.8* and *require Python 2 to run*.
 
  ## Evens & Odds
  
 These scripts contain functions that determine whether real numbers and their sums and products are even, odd, or neither (for non-integers):
-+ evens_odds.py: <font color = "green">:snake: script </font>
-+ is_even.R: <font color = "blue"> **R** script </font>
-- ![#c5f015](https://placehold.it/15/c5f015/000000?text= **R SCRIPT**) `#`
+- ![#c5f015](https://placehold.it/15/c5f015/000000?text= evens_and_odds.py) `#c5f015, echo=FALSE` :snake:
+- ![#1589F0](https://placehold.it/15/1589F0/000000?text= is_even.R) `#1589F0` 
+
+
 
 ## signs.py :negative_squared_cross_mark: 
  
