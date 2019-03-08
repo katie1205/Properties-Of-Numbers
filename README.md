@@ -16,3 +16,7 @@ This script contains functions to return the signs of numbers, the product of tw
  ## stats.py
 
 This script contains functions to determine the stats of a sample- the average, the median, the min, the max, the range, and skewedness- and applies these functions to an interactive lesson. In the lesson, 50 random integers between 1 and 100 are generated, the functions are applied to get the stats of the sample, and the results are printed. This process is repeated 5 times to generate 5 total samples so that the user can discover the meaning of the stats. At the end of the lesson, there is an assessment. The assessment is graded and the user gets three attempts for each question. The user's score is printed out and the responses are stored in the user-specified input file. 
+
+## To_binary.R
+
+This script contains a function that converts nonnegative integers to binary numbers, storing the bits in a vector.
